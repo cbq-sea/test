@@ -1,3 +1,3 @@
 # test
 
-## Example
+## Examples
